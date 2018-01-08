@@ -1,5 +1,6 @@
 # jee4a-dubbo-provider
 dubbo 服务提供方示例
+
 消费方示例请查阅jee4a-dubbo-consumer
 
 1、初始化jee4a-dubbo-provider-webapp/docs下的数据库脚本
