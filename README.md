@@ -3,7 +3,7 @@ dubbo 服务提供方示例
 
 消费方示例请查阅jee4a-dubbo-consumer
 
-1、初始化jee4a-dubbo-provider-webapp/docs下的数据库脚本
+1、初始化docs下的数据库脚本
 
 2、修改pom下数据库配置
 
@@ -11,5 +11,4 @@ dubbo 服务提供方示例
 
 4、打包部署启动
 
-
-部署文档：jee4a-dubbo-provider-webapp/docs
+部署文档：docs/
