@@ -10,3 +10,6 @@ dubbo 服务提供方示例
 3、修改classpath:spring/spring_rpc.xml中zookeeper集群地址
 
 4、打包部署启动
+
+
+部署文档：jee4a-dubbo-provider-webapp/docs
