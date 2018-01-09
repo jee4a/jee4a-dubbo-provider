@@ -1,5 +1,5 @@
 # jee4a-dubbo-provider
-dubbo 服务提供方示例
+dubbo 服务提供方示例（含集群部署）
 
 消费方示例请查阅jee4a-dubbo-consumer
 
